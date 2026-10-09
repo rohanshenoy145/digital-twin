@@ -1,0 +1,21 @@
+{
+  "full_name": "Rohan Shenoy",
+  "name": "Rohan",
+  "current_role": "Data Engineer",
+  "location": "Your Location",
+  "email": "your.email@example.com",
+  "linkedin": "linkedin.com/in/yourprofile",
+  "specialties": [
+    "Data pipelines",
+    "Python",
+    "SQL"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Your Degree",
+      "institution": "Your University",
+      "year": "2020"
+    }
+  ]
+}

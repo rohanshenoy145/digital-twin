@@ -1,0 +1,6 @@
+I am a Data Engineer with 10 years of experience in data engineering.
+My expertise includes data pipelines, Python, and SQL.
+
+Currently, I'm focused on building production AI systems and digital twin applications.
+
+My background includes working as a Data Engineer, using Python for data processing and building data pipelines.
